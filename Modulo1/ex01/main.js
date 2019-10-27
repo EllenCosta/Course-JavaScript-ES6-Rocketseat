@@ -1,0 +1,21 @@
+class Usuario {
+    constructor(email, senha) {
+        this.email = email;
+        this.senha = senha;
+    }
+    isAdmin() {
+        return this.adm == true;
+    }
+}
+
+class Admin extends Usuario {
+    constructor(email, senha) {
+        super(email, senha);
+        this.adm = true;
+    }
+}
+
+const User1 = new Usuario('user@teste.com', 'senha123');
+const Adm1 = new Admin('adm@teste.com', 'senha123');
+console.log(User1.isAdmin());
+console.log(Adm1.isAdmin());
