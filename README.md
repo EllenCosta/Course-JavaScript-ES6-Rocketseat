@@ -3,10 +3,10 @@
 ## Final exercises of each module :book:
 
 ---
-#### [Módulo :one:]() → Conceitos
+#### [Módulo :one:](https://github.com/EllenCosta/Course-JavaScript-ES6-Rocketseat/tree/master/Modulo1) → Conceitos
 ---
-#### [Módulo :two:]() → Webpack Server
+#### [Módulo :two:](https://github.com/EllenCosta/Course-JavaScript-ES6-Rocketseat/tree/master/Modulo2) → Webpack Server
 ---
-#### [Módulo :three:]() → Async/await
+#### [Módulo :three:](https://github.com/EllenCosta/Course-JavaScript-ES6-Rocketseat/tree/master/Modulo3) → Async/await
 ---
-#### [Módulo :four:]() → Aplicação com ES6+
+#### [Módulo :four:](https://github.com/EllenCosta/Course-JavaScript-ES6-Rocketseat/tree/master/Modulo4) → Aplicação com ES6+
